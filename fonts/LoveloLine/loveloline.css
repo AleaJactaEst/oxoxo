@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Lovelo Line';
+    src: local('Lovelo Line Light'), local('Lovelo-LineLight'), url('lovelolinelight.woff2') format('woff2'), url('lovelolinelight.woff') format('woff'), url('lovelolinelight.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Lovelo Line';
+    src: local('Lovelo Line Bold'), local('Lovelo-LineBold'), url('lovelolinebold.woff2') format('woff2'), url('lovelolinebold.woff') format('woff'), url('lovelolinebold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
